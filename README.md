@@ -1,4 +1,4 @@
-<!--- STARTEXCLUDE --->
+<!---- STARTEXCLUDE --->
 # BattleStax 
 *50 minutes, Advanced, [Start Building](https://github.com/DataStax-Examples/battlestax#prerequisites)*
 
